@@ -224,7 +224,7 @@ body {
 .feature-item-icon {
   display: flex;
   justify-content: center;
-  align-items: center;
+  padding: 25px 0;
 
   margin-bottom: 30px;
   border-radius: 4px;
